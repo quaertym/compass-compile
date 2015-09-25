@@ -15,5 +15,9 @@
     "dargs": "^4.0.1",
     "merge": "^1.2.0",
     "rsvp": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:quaertym/compass-compiler.git"
   }
 }
